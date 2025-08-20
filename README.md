@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcxY2V6anU2bWwwajF4ZWVjY3F2cW01MWt4OGg3dG01c2E0c3V4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQYqU7POc48WfB8/giphy.gif" alt="Wildlife and machine learning" width="200"/>
+
   <h1>🌿 Poaching Detection in Karnataka using Machine Learning 🤖</h1>
 </div>
 
@@ -27,9 +26,6 @@ The project's methodology follows a systematic workflow:
 4.  **Model Evaluation**: The model's performance is assessed using MSE and MAE. The results showed a significant decrease in loss during training, with final validation MSE and MAE values of approximately 0.03 and 0.13, respectively.
 5.  **High-Risk Zone Identification**: Based on the model's predictions, animal trajectories are projected onto maps to create heatmaps that highlight high-risk poaching zones.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlJgYc2j1d0B4s8/giphy.gif" alt="Data analysis and charts" width="400"/>
-</div>
 
 ---
 
@@ -54,9 +50,7 @@ Future research aims to increase the prediction accuracy and utility of the syst
 * **Expanded Datasets**: Enlarging the datasets to include a wider range of species, greater geographical regions, and extended observation periods.
 * **Enhanced Spatial Mapping**: Improving spatial mapping tools with advanced GIS interfaces for more detailed and clear visualizations of animal paths and high-risk areas.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhZDR1MWF1ZGx3eGZlbzRpOHJzZjlqeDVkcGR5aGNhdGd4dGdkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOs8/giphy.gif" alt="Future development" width="400"/>
-</div>
+
 
 ## 📜 License
 
